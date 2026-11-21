@@ -1,1 +1,1 @@
-Package { #name : #Documentor }
+Package { #name : #BaselineOfDocumentor }
