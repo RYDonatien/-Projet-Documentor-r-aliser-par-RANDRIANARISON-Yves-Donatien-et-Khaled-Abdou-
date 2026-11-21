@@ -1,1 +1,1 @@
-Package { #name : #BaselineOfDocumentor }
+Package { #name : #'Documentor-Tests' }
